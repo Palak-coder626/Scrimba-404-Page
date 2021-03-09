@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="184.11189mm"
+   height="145.65164mm"
+   viewBox="0 0 184.11189 145.65164"
+   version="1.1"
+   id="svg1040"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="scrimbaBlueBlob.svg">
+  <defs
+     id="defs1034" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68922779"
+     inkscape:cx="342.59681"
+     inkscape:cy="386.08509"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1037">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.354593,-47.089893)">
+    <path
+       id="path1042"
+       style="opacity:0.75;fill:#cfdfff;fill-opacity:0.831373;stroke-width:0"
+       d="m 181.06157,157.40978 c -38.70326,28.22871 -32.48515,11.26003 -67.92392,17.20585 -34.046046,5.71216 -33.642765,44.43192 -88.085112,-12.65136 -35.885732,-37.62651 26.247245,-114.874377 72.244189,-114.874377 45.996933,0 139.982183,69.317057 83.764843,110.319887 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>
